@@ -1,6 +1,9 @@
 RENCANA LULUS CAAN
 
 - Selesaiin kelas yang ada
+  * kelas bwa
+  * kelas progate
+  * kelas github
 - Tentuin judul
 - Cari cara nyusun skripsi
 - Kolokium
