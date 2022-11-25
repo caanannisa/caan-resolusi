@@ -4,6 +4,7 @@ RENCANA LULUS CAAN
   * kelas bwa
   * kelas progate
   * kelas github
+ - Belajar UI/UX
 - Tentuin judul
 - Cari cara nyusun skripsi
 - Kolokium
